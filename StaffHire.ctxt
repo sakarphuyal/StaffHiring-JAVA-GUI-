@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=StaffHire
+comment1.params=vacancyNumber\ designation\ jobType
+comment1.target=StaffHire(int,\ java.lang.String,\ java.lang.String)
+comment2.params=vacancyNumber
+comment2.target=void\ setvacancyNumber(int)
+comment3.params=designation
+comment3.target=void\ setdesignation(java.lang.String)
+comment4.params=jobType
+comment4.target=void\ setjobType(java.lang.String)
+comment5.params=
+comment5.target=int\ getvacancyNumber()
+comment6.params=
+comment6.target=java.lang.String\ getdesignation()
+comment7.params=
+comment7.target=java.lang.String\ getjobType()
+comment8.params=
+comment8.target=void\ display()
+numComments=9
